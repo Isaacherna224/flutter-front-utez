@@ -1,5 +1,5 @@
 class UserModel {
-  //definimos los atributos del objeto
+
   final String? id;
   final String fullName;
   final int age;
